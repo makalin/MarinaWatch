@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "bolge": "Ege",
+        "sehir": "İzmir",
+        "tesis_adi": "Çeşme Marina",
+        "tur": "Marina",
+        "yat_kapasitesi": 400
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.30222,
+          38.324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bolge": "Ege",
+        "sehir": "Muğla",
+        "tesis_adi": "Milta Bodrum Marina",
+        "tur": "Marina",
+        "yat_kapasitesi": 450
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.43056,
+          37.03333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bolge": "Marmara",
+        "sehir": "İstanbul",
+        "tesis_adi": "Ataköy Marina",
+        "tur": "Marina",
+        "yat_kapasitesi": 805
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.88194,
+          40.97278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bolge": "Marmara",
+        "sehir": "İstanbul",
+        "tesis_adi": "Kumkapı Balıkçı Barınağı",
+        "tur": "Barınak",
+        "yat_kapasitesi": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97694,
+          41.00333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bolge": "Akdeniz",
+        "sehir": "Antalya",
+        "tesis_adi": "Setur Antalya Marina",
+        "tur": "Marina",
+        "yat_kapasitesi": 235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.61478,
+          36.83475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bolge": "Karadeniz",
+        "sehir": "Samsun",
+        "tesis_adi": "Samsun Marina",
+        "tur": "Marina",
+        "yat_kapasitesi": 200
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.33494,
+          41.28472
+        ]
+      }
+    }
+  ]
+}

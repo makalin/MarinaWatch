@@ -1,0 +1,11 @@
+[{
+  "vessel": "Sea Breeze",
+  "year": 2023,
+  "price": 3500,
+  "size_ft": 32,
+  "type": "yacht",
+  "country": "Turkey",
+  "region": "Aegean",
+  "lat": 37.0344,
+  "lng": 27.4303
+}]
