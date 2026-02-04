@@ -1,0 +1,3813 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SİVRİCE LİMANI",
+        "bolge": "MÜSELLİM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.224999999999998,
+          39.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KADIRGA BURNU",
+        "bolge": "MÜSELLİM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3725,
+          39.487500000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "MADEN KOYU",
+        "bolge": "AYVALIK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.586388888888887,
+          39.376111111111115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "GÜMÜŞ KOYU",
+        "bolge": "AYVALIK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.604166666666668,
+          39.378055555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "PATRİÇA KOYU",
+        "bolge": "AYVALIK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.63722222222222,
+          39.37027777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KUMRU KOYU",
+        "bolge": "AYVALIK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.639722222222222,
+          39.29722222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ÇAMLIK KOYU – PAŞA KOYU",
+        "bolge": "AYVALIK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.66444444444444,
+          39.28722222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ILICA KOYU-BADEMLİ KALEM ADASI",
+        "bolge": "DİKİLİ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.798333333333336,
+          38.99944444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "GARİP ADASI – BADEMLİ",
+        "bolge": "DİKİLİ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.785,
+          39.006388888888885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KIZKULESİ ADASI",
+        "bolge": "DİKİLİ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.816944444444445,
+          38.91888888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "NARLIDERE LİMANI",
+        "bolge": "DİKİLİ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.84722222222222,
+          38.93111111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "EĞRİ LİMAN",
+        "bolge": "ÇEŞME",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.378333333333334,
+          38.5375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ILDIR KÖRFEZİ",
+        "bolge": "ÇEŞME",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.421944444444446,
+          38.39111111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ALAÇATI LİMANI",
+        "bolge": "ÇEŞME",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.394166666666667,
+          38.24777777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "MERSİN KÖRFEZİ",
+        "bolge": "ÇEŞME",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.433611111111112,
+          38.21222222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ZEYTİNELİ KÖRFEZİ",
+        "bolge": "ÇEŞME",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.489722222222223,
+          38.192499999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SARPDERE",
+        "bolge": "ÇEŞME",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.51527777777778,
+          38.17972222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KIRKDİLİM LİMANI (ÇİRİGO)",
+        "bolge": "ÇEŞME",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.57361111111111,
+          38.129444444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "GÖKKOVAR LİMANI",
+        "bolge": "SIĞACIK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.608055555555556,
+          38.13722222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SIĞACIK KÖRFEZİ İÇİNDEKİ KOYLAR",
+        "bolge": "SIĞACIK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.71361111111111,
+          38.18472222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DİP BURNU – DİLEK YARIMADASI",
+        "bolge": "KUŞADASI",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0075,
+          37.66583333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SU ADASI – DİLEK YARIMADASI",
+        "bolge": "KUŞADASI",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.013055555555557,
+          37.65333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SANDAL ADASI–DİLEK YARIMADASI",
+        "bolge": "KUŞADASI",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.015,
+          37.647777777777776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ÇUKURCUK LİMANI",
+        "bolge": "DİDİM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.210277777777776,
+          37.35055555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KURU ERİK BÜKÜ",
+        "bolge": "DİDİM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.331666666666667,
+          37.36666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "AKBÜK LİMANI",
+        "bolge": "DİDİM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.41333333333333,
+          37.39805555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KARASU",
+        "bolge": "KAZIKLI",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.45111111111111,
+          37.30888888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KAZIKLI İSKELE",
+        "bolge": "KAZIKLI",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.47833333333333,
+          37.33555555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ÇAM LİMANI (ALAGÜN)",
+        "bolge": "GÜLLÜK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.508055555555554,
+          37.268055555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "GÖK LİMAN (NALI BÜKÜ)",
+        "bolge": "GÜLLÜK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53638888888889,
+          37.24916666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ASİN LİMANI",
+        "bolge": "GÜLLÜK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.594166666666666,
+          37.27861111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SALİH ADASI BÜYÜK KOY",
+        "bolge": "GÜLLÜK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51722222222222,
+          37.149166666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "HAYITLI KOYU (ILICAK KOYU) SALİH",
+        "bolge": "ADASI",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.531666666666666,
+          37.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KUYUCAK LİMANI",
+        "bolge": "GÜVERCİNLİK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55611111111111,
+          37.153888888888886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SIRALIK KOYU (KÖHNE BÜKÜ)",
+        "bolge": "GÜVERCİNLİK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.559166666666666,
+          37.13527777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ZEYTİNLİ BURNU(ZEYTİNLİ",
+        "bolge": "KAHVE)-TORBA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.488333333333333,
+          37.096944444444446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KAYNAR–KÜÇÜK VE BÜYÜK",
+        "bolge": "KOYLAR",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.47611111111111,
+          37.08694444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DEMİR KOYU",
+        "bolge": "TORBA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.450833333333332,
+          37.09722222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "İKİZ ADALAR (İKİZCELER)",
+        "bolge": "TORBA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.476388888888888,
+          37.12388888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KIZILKIYI",
+        "bolge": "TORBA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.44,
+          37.11277777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "GÖKBURUN LİMANI",
+        "bolge": "TORBA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.43111111111111,
+          37.11833333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "CENNET KOY (ÇOMÇA)",
+        "bolge": "TORBA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.41861111111111,
+          37.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SAPLI KOY ( KEPÇE DIŞ LİMAN )",
+        "bolge": "TÜRKBÜKÜ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.41,
+          37.13111111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DERİN KOY ( KEPCE İÇ LİMAN )",
+        "bolge": "TÜRKBÜKÜ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.410277777777775,
+          37.12833333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "FENER ADASI (APOSTOL ADASI)",
+        "bolge": "GÜNDOGAN",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.356944444444444,
+          37.17361111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KÜÇÜK TAVŞAN ADASI",
+        "bolge": "GÜNDOGAN",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.37027777777778,
+          37.16972222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "PAŞA LİMANI",
+        "bolge": "YALIKAVAK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.261111111111113,
+          37.1225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "HAYITLI KOYU",
+        "bolge": "YALIKAVAK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.27111111111111,
+          37.1175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KÜÇÜK KİREMİT ADASI",
+        "bolge": "YALIKAVAK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.238333333333333,
+          37.08722222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BÜYÜK KİREMİT ADASI",
+        "bolge": "YALIKAVAK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.211388888888887,
+          37.08388888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ÇAVUŞ ADASI",
+        "bolge": "TURGUTREİS",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.203611111111112,
+          37.04861111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ÇATAL ADALAR",
+        "bolge": "TURGUTREİS",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.218055555555555,
+          37.005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "METEOROLOJİ KOYU",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.278888888888886,
+          36.964444444444446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "AKÇABÜK KOYU (AKYARLAR LİMANI)",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.290555555555557,
+          36.96388888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ASPAT (KARA İNCİR) KOYU",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.302222222222223,
+          36.97083333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ASPAT KOYU AZMAĞI",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.313333333333333,
+          36.97777777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ÇIFIT KALESİ SAHİLİ (BONCUKLU)",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.322499999999998,
+          36.981944444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BAĞLAR KOYU",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.33222222222222,
+          36.99722222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BOSTAN TARLASI",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.335277777777776,
+          37.0025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ÇELEBİ ADASI",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.359166666666667,
+          37.00805555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ADABOĞAZI (AKVARYUM)",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.384166666666665,
+          37.00555555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "HAREMTEN KOYLARI",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.41333333333333,
+          37.02027777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BARDAKÇI KOYU",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.418333333333333,
+          37.027499999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KARAADA-ILICA",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4525,
+          36.98555555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KARAADA-METEOR",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.45611111111111,
+          36.98416666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KARAADA-KÜÇÜK POYRAZ",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.480833333333333,
+          36.96138888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KARAADA-BÜYÜK POYRAZ",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.461666666666666,
+          36.96472222222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KARAADA-KAÇAKÇI",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.449166666666667,
+          36.97027777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KARAADA-YARLAR",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.489166666666666,
+          36.96361111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SARIMEHMETOĞLU TARLASI",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.481944444444444,
+          36.98916666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "TAVŞAN BURUN-ÇEMPERCİ KOYU",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.489166666666666,
+          36.98833333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "TAVŞAN BURNU-KÜÇÜK TARLA",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.499722222222225,
+          36.98583333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "HACI GİDEN YALISI",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.509722222222223,
+          36.98861111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "GEREN KOYU",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5175,
+          36.993611111111115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SAFRA KOYU",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.548611111111114,
+          36.986666666666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "PABUÇ BURNU VE KOYU",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5675,
+          36.97944444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KARGICIK BÜKÜ (ALMAN KOYU)",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.56638888888889,
+          36.98777777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KARGICIK BÜKÜ (DANGIR YALISI)",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.603611111111114,
+          36.989444444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ORAK ADASI-LODOS LİMANI (EVLİ KOYU)",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.593055555555555,
+          36.9775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ORAK ADASI – POYRAZ LİMANI",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.597777777777775,
+          36.97277777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "HARIKLI YALI",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.630555555555556,
+          36.97972222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SİNEKLİ YALI",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.63861111111111,
+          36.97972222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ALAKIŞLA (KİSSE) BÜKÜ-ADALIYALI",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.642777777777777,
+          36.98444444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ALAKIŞLA (KİSSE) BÜKÜ-NARLI",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.64361111111111,
+          36.99027777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ALAKIŞLA (KİSSE) BÜKÜ-HARABELER",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.646666666666665,
+          36.99611111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ALAKIŞLA(KİSSE)BÜKÜ-SEYTAN DERESİ",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.653055555555554,
+          36.996944444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ILGIN KOYU",
+        "bolge": "BODRUM",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.755277777777778,
+          36.99861111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KARGILI KOYU (MOLLA İBRAHİM)",
+        "bolge": "ÇÖKERTME",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.776666666666667,
+          36.99611111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ÇÖKERTME KOYU",
+        "bolge": "ÇÖKERTME",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.794444444444448,
+          37.00138888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "AKBÜK LİMANI",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.104166666666668,
+          37.02166666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SEHİR ADALARI -SEDİR ADASI",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.206666666666667,
+          36.993611111111115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KARACA SÖĞÜT LİMANI",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.18888888888889,
+          36.942499999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KÜÇÜK ÇANAK(SÖĞÜT-İNGİLİZ ARASI)",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.178055555555556,
+          36.94833333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BÜYÜK ÇANAK (SÖĞÜT-İNGİLİZ ARASI)",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.17388888888889,
+          36.94638888888888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DEĞİRMEN BÜKÜ-GEMİ BATIRAN",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.166666666666668,
+          36.93472222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DEĞİRMEN BÜKÜ-LOKANTA",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.169444444444444,
+          36.91833333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DEĞİRMEN BÜKÜ-İNGİLİZ KOYU",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.15722222222222,
+          36.92222222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DEĞİRMEN BÜKÜ-AYİN KOYU",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.14611111111111,
+          36.92027777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DEĞİRMEN BÜKÜ-NERGİS KOYU(ÇİÇEK)",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.134444444444444,
+          36.93055555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BALLI SU KOYU",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.111666666666668,
+          36.93416666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KARGILI KOYU (LÖNGÖZ)",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.097777777777775,
+          36.9325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "NERGİS BURNU (LİRA)",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.075,
+          36.940555555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "TUZLA LİMANI – BALIKÇI KOYU",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.030555555555555,
+          36.922777777777775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "TUZLA LİMANI – ADALI KOYU",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.041111111111114,
+          36.92222222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "TUZLA HIRSIZ LİMANI",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.043055555555558,
+          36.90972222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "YEDİ ADALAR – KÜFRE KOYU",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.05666666666667,
+          36.88111111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "YEDİ ADALAR – UZUN LİMAN",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.05027777777778,
+          36.86666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "YEDİ ADALAR – BEKAR KOYU",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.029722222222222,
+          36.85666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "YEDİ ADALAR – BALIKÇI KOYU",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.021666666666665,
+          36.875277777777775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BÖRDÜBET LİMANI – MEZAR KOYU",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.030833333333334,
+          36.830555555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BÖRDÜBET LİMANI – AMAZON KOYU",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.050555555555555,
+          36.82944444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BÖRDÜBET LİMANI–BALIK AŞIRAN KOYU",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.03222222222222,
+          36.790277777777774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BÖRDÜBET LİMANI – KÜÇÜK ÇATI KOYU",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.022499999999997,
+          36.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BÖRDÜBET LİMANI – BÜYÜK ÇATI KOYU",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.014444444444443,
+          36.78972222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "GERENCE ( ARMONİKA ) KOYU",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.99138888888889,
+          36.79805555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KARA EFE LİMANI",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.933611111111112,
+          36.79805555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ÇATAL-ALAVARA-LİMA KOYU",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.894444444444446,
+          36.8075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "HARUPLU KOYU",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.683611111111112,
+          36.79083333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "MERSİNCİK LİMANI–MERDİVENLİ KOYU",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.474444444444444,
+          36.75694444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "MERSİNCİK LİMANI",
+        "bolge": "GÖKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.477777777777778,
+          36.75222222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KNİDOS KÜÇÜK LİMAN",
+        "bolge": "DATÇA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.371944444444445,
+          36.68611111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KNİDOS BÜYÜK LİMAN",
+        "bolge": "DATÇA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.375555555555557,
+          36.68388888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KNİDOS – KIYIRAP KOYU- BOYNUZ BÜKÜ",
+        "bolge": "DATÇA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.390555555555554,
+          36.681666666666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "PALAMUT BÜKÜ – KÜÇÜK POYRAZ",
+        "bolge": "DATÇA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.491666666666667,
+          36.660555555555554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "PALAMUT BÜKÜ – BÜYÜK POYRAZ",
+        "bolge": "DATÇA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4875,
+          36.65694444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "PALAMUT BÜKÜ – HAYIT KOYU",
+        "bolge": "DATÇA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.575,
+          36.68333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "PALAMUT BÜKÜ – DOMUZ ÇUKURU",
+        "bolge": "DATÇA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.63722222222222,
+          36.67305555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "İNCE BURUN",
+        "bolge": "DATÇA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.673333333333336,
+          36.660555555555554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DATÇA GÖK LİMAN",
+        "bolge": "DATÇA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.67777777777778,
+          36.68611111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DATÇA KARGI KOYU",
+        "bolge": "DATÇA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.677222222222223,
+          36.69833333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KATÇA KARAİNCİR KOYU",
+        "bolge": "DATÇA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.790555555555557,
+          36.7575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DATÇA AKTUR KOYU",
+        "bolge": "DATÇA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.88,
+          36.75222222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "GÖNLÜCEK BÜKÜ",
+        "bolge": "HİSARÖNÜ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.965833333333332,
+          36.75861111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "HURMALI BÜK",
+        "bolge": "HİSARÖNÜ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.976666666666667,
+          36.76083333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DİŞLİCE ADASI – BENCİK GİRİŞİ",
+        "bolge": "HİSARÖNÜ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.03527777777778,
+          36.76083333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BENCİK LİMANI",
+        "bolge": "HİSARÖNÜ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.041944444444447,
+          36.77916666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "TAVŞAN ADASI VE KOYU",
+        "bolge": "HİSARÖNÜ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.05527777777778,
+          36.76305555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KUYULU–SUCAĞIZ (EMEL SAYIN)",
+        "bolge": "KOYU",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.067777777777778,
+          36.771388888888886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ÇAMURLU KOY VE İN BÜKÜ",
+        "bolge": "HİSARÖNÜ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0825,
+          36.78916666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ORHANİYE",
+        "bolge": "HİSARÖNÜ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.125555555555557,
+          36.76111111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SELİMİYE",
+        "bolge": "HİSARÖNÜ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.097777777777775,
+          36.71527777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KEMERİYE ADALARI",
+        "bolge": "HİSARÖNÜ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.025,
+          36.72027777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DİRSEK ( AĞIL-GERENCE ) BÜKÜ",
+        "bolge": "HİSARÖNÜ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.983333333333334,
+          36.68722222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ATABOL",
+        "bolge": "HİSARÖNÜ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.97083333333333,
+          36.677499999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ADA BOĞAZI–YEŞİLOVA KÖRFEZİ",
+        "bolge": "BOZBURUN",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.054444444444446,
+          36.67194444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SÖĞÜT – YEŞİLOVA KÖRFEZİ",
+        "bolge": "BOZBURUN",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0775,
+          36.654444444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "TAŞLICA ADASI–YEŞİLOVA KÖRFEZİ",
+        "bolge": "BOZBURUN",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.054444444444446,
+          36.615833333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "İNCİLİ ADA – YEŞİLOVA KÖRFEZİ",
+        "bolge": "BOZBURUN",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.997222222222224,
+          36.61222222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KIZILBURUN–YEŞİLOVA KÖRFEZİ",
+        "bolge": "BOZBURUN",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.990277777777777,
+          36.60638888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BOZUKKALE",
+        "bolge": "BOZBURUN",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.01638888888889,
+          36.569722222222225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SERÇE KORSAN KOYU",
+        "bolge": "BOZBURUN",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.040277777777778,
+          36.56944444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SERÇE LİMANI",
+        "bolge": "BOZBURUN",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.047500000000003,
+          36.57777777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ARABA (ARAP) ADASI",
+        "bolge": "BOZBURUN",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.14638888888889,
+          36.650555555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ARMELLA KOYU",
+        "bolge": "BOZBURUN",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.16333333333333,
+          36.67527777777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "GEBEKSE(GEBE KİLİSE)KOYU-ÇİFTLİK",
+        "bolge": "BOZBURUN",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.22833333333333,
+          36.70194444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ÇİFTLİK KOYU",
+        "bolge": "BOZBURUN",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.240277777777777,
+          36.715833333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KADIRGA KOYU",
+        "bolge": "MARMARİS",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.296666666666667,
+          36.7325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KUMLU BÜK",
+        "bolge": "MARMARİS",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.275,
+          36.74944444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "TURUNÇ KOYU",
+        "bolge": "MARMARİS",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.251944444444444,
+          36.774166666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KEÇİ ADASI",
+        "bolge": "MARMARİS",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.249444444444446,
+          36.80638888888888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "CENNET KOYU",
+        "bolge": "MARMARİS",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.279999999999998,
+          36.81222222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "YALANCI BOĞAZ",
+        "bolge": "MARMARİS",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.31138888888889,
+          36.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "YILANCIK ADASI – AKSAZ",
+        "bolge": "MARMARİS",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.439166666666665,
+          36.77444444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SEMİZCE KOYLARI- EKİNCİK",
+        "bolge": "KÖYCEĞİZ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.53638888888889,
+          36.805277777777775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "EKİNCİK LİMANI",
+        "bolge": "KÖYCEĞİZ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.55,
+          36.828611111111115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "EKİNCİK MADEN İSKELESİ M/Y MARİNA",
+        "bolge": "KÖYCEĞİZ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.566111111111113,
+          36.823055555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DELİKADA – DALYAN",
+        "bolge": "KÖYCEĞİZ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.597777777777775,
+          36.795833333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DİŞİBİLMEZ BATI KOYU (ANTENDİBİ)",
+        "bolge": "KÖYCEĞİZ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.663888888888888,
+          36.716944444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DİŞİBİLEZ DOĞU KOYU",
+        "bolge": "KÖYCEĞİZ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6475,
+          36.72083333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BABA ADASI",
+        "bolge": "DALAMAN",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.69527777777778,
+          36.69416666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "GÖKGEMİLE KOYU",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.851666666666667,
+          36.636944444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "GÜNGÖRMEZ KOYU",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.83611111111111,
+          36.628055555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "AĞA LİMANI (BÜYÜK VE KÜÇÜK)",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.870555555555555,
+          36.618611111111115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KUYRUK BURNU",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.886666666666667,
+          36.632777777777775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DIŞ GÖBÜN KOYU VE ADASI",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.894166666666667,
+          36.638333333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KARA BURUN",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.904722222222222,
+          36.644999999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "GÖBÜN KOYU",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.89361111111111,
+          36.643055555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "MERDİVENLİ KOY",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.888055555555557,
+          36.643055555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "YAVANSU KOYU",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.88111111111111,
+          36.635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KUYUCAK KOYU (BİNLİK)",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.863611111111112,
+          36.641666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DIŞ KUYUCAM KOYU",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.86777777777778,
+          36.63611111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "MANASTIR – HAMAM KOYU",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.85527777777778,
+          36.640277777777776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "MANASTIR – KAPI KOYU",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.85027777777778,
+          36.643055555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BOZ BURUN 1.KOY",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.860277777777778,
+          36.65472222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BOZ BURUN 2.KOY",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.857222222222223,
+          36.656666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SARSALA KOYLARI",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.853055555555557,
+          36.66138888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SIRALI BÜK",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.859166666666667,
+          36.67583333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "TAŞYAKA KOYU VE ADASI",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.865000000000002,
+          36.695277777777775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KİLLE İSKELESİ",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.878055555555555,
+          36.69777777777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KÜÇÜK BOYNUZ BÜKÜ",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.906388888888888,
+          36.70416666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BOYNUZ BÜKÜ",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.89638888888889,
+          36.711111111111116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DOMUZ ADASI KOYLARI",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.89611111111111,
+          36.66694444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "TERSANE ADASI VE TERSANE KOYU",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.915277777777778,
+          36.675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ZEYTİNLİ ADA",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.927222222222223,
+          36.69638888888888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "YASSICA ADALAR",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.933611111111112,
+          36.708333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "GÖCEK ADASI",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.940555555555555,
+          36.72805555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "AT BÜKÜ",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.91,
+          36.723055555555554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "OSMAN AĞA ÇEŞMESİ",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.915,
+          36.72944444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "İNCE BURUN",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.928055555555556,
+          36.736111111111114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "AYTEN KOYU",
+        "bolge": "GÖCEK",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.925555555555558,
+          36.74111111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "İNLİCE",
+        "bolge": "FETHİYE",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.96861111111111,
+          36.72888888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KÜÇÜK KARGI VE ÇIĞLIK KOYLARI",
+        "bolge": "FETHİYE",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.008333333333333,
+          36.70861111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KATRANCI ADASI VE KOYU",
+        "bolge": "FETHİYE",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.028333333333332,
+          36.702222222222225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KIZILADA",
+        "bolge": "FETHİYE",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.047500000000003,
+          36.657777777777774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KALEMYA KOYU",
+        "bolge": "FETHİYE",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.075,
+          36.61416666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KALEMYA BATI KOYLARI(ÇIRALI)",
+        "bolge": "2KOY",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.064722222222223,
+          36.61611111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "TURUNÇ PINARI KOYU",
+        "bolge": "FETHİYE",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.05388888888889,
+          36.61388888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ŞAHİN BURNU",
+        "bolge": "FETHİYE",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.04416666666667,
+          36.61972222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KARACA ÖREN ADASI VE KOYU",
+        "bolge": "ÖLÜDENİZ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.055,
+          36.541666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DARBOĞAZ DOGU KOYU",
+        "bolge": "ÖLÜDENİZ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.050555555555555,
+          36.5575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "GEMİLER KOYU",
+        "bolge": "ÖLÜDENİZ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.060833333333335,
+          36.5575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "GEMİLER ADASI",
+        "bolge": "ÖLÜDENİZ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.06972222222222,
+          36.55333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SOĞUKSU KOYU",
+        "bolge": "ÖLÜDENİZ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.083333333333332,
+          36.562777777777775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BEŞTAŞ LİMANI",
+        "bolge": "ÖLÜDENİZ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.092499999999998,
+          36.55472222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ÖLÜ DENİZ DIŞ LİMAN",
+        "bolge": "ÖLÜDENİZ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.111111111111114,
+          36.54611111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KELEBEKLER VADİSİ",
+        "bolge": "ÖLÜDENİZ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1225,
+          36.49722222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "YEŞİLKÖY LİMANI",
+        "bolge": "KALKAN",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.37472222222222,
+          36.25944444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BAYINDIR LİMANI",
+        "bolge": "KAŞ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.64527777777778,
+          36.17611111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KOVAN ADASI",
+        "bolge": "KAŞ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.62666666666667,
+          36.151666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "UFAKDERE",
+        "bolge": "KAŞ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.677500000000002,
+          36.152499999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "İNÖNÜ",
+        "bolge": "KAŞ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.715,
+          36.155833333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "APELLA",
+        "bolge": "KAŞ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.747777777777777,
+          36.15972222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "YAĞCI KOYU",
+        "bolge": "KAŞ",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.78611111111111,
+          36.15833333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KEKOVA İÇİ KOYLARI",
+        "bolge": "KEKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.85027777777778,
+          36.181666666666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "GÖKKAYALAR LİMANI",
+        "bolge": "KEKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.893055555555556,
+          36.20944444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ÇAMLIK KOYU",
+        "bolge": "KEKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.90611111111111,
+          36.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "BUZAĞI",
+        "bolge": "KEKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.906666666666666,
+          36.225833333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KARALOZ",
+        "bolge": "KEKOVA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.890277777777776,
+          36.18333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "DEMRE ÇAYAĞZI",
+        "bolge": "FİNİKE",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.939722222222223,
+          36.226111111111116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "RADYOFON",
+        "bolge": "FİNİKE",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.150277777777777,
+          36.27388888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "KARAÖZ",
+        "bolge": "FİNİKE",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.40833333333333,
+          36.255833333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SULU ADA KARŞISI",
+        "bolge": "ANTALYA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.451666666666664,
+          36.256388888888885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ADRASAN ( ÇAVUŞ LİMANI )",
+        "bolge": "ANTALYA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.473611111111108,
+          36.300555555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "SAZAK LİMANI",
+        "bolge": "ANTALYA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.504722222222224,
+          36.35583333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "CİNEVİZ LİMANI-PORTO CENEVİZ",
+        "bolge": "ANTALYA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.50027777777778,
+          36.365833333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ÇINARLI LİMANI – OLİMPOS",
+        "bolge": "ANTALYA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.492222222222225,
+          36.43333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "ÜÇ ADALAR",
+        "bolge": "ANTALYA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.54888888888889,
+          36.459722222222226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "koy_adi": "FASİLİS-PHASİLİS",
+        "bolge": "ANTALYA",
+        "tur": "Yat Koyu",
+        "kaynak": "Çanakkale'den Antalya'ya 238 Koy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.547222222222224,
+          36.51916666666666
+        ]
+      }
+    }
+  ]
+}
